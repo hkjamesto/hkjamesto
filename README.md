@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am James, a second year Ph.D. student in Criminology at the University of Pennsylvania.
+
+Research interests:
+- 🔭 Forensic statistics
+
+Fun fact about me:
+- ⚡ I have an Erdos number of 5!
+
 <!--
 **hkjamesto/hkjamesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
